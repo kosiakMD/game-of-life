@@ -3,4 +3,4 @@ Conway's Game of Life
 
 Wiki: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
-![Farmers Market Finder Demo](demo.gif)
+![Farmers Market Finder Demo](demo-11-15 22.36.43.gif)
